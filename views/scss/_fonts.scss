@@ -1,0 +1,51 @@
+
+@font-face {
+    font-family: 'courier_newregular';
+    src: url('../fonts/courrier/courier_new-webfont.woff2') format('woff2'),
+         url('../fonts/courrier/courier_new-webfont.woff') format('woff');
+         font-weight: normal;
+         font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'BoosterNextFY-Light';
+    src:
+         url('../fonts/boosterNextFY/BoosterNextFY-Light.woff') format('woff');
+         font-weight: normal;
+         font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'BoosterNextFY-Thin';
+    src: 
+    url('../fonts/boosterNextFY/BoosterNextFY-Thin.woff') format('woff');
+         font-weight: normal;
+         font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'BoosterNextFY-Medium';
+    src: 
+         url('../fonts/boosterNextFY/BoosterNextFY-Medium.woff') format('woff');
+         font-weight: normal;
+         font-style: normal;
+
+}
+
+
+
+$font-serif: 'courier_newregular';
+
+$font-sans-serif: 'BoosterNextFY-Medium';
+$font-complementary-light: 'BoosterNextFY-Light';
+$font-complementary-thin: 'BoosternextFY-Thin';
+
