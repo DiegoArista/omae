@@ -41,7 +41,7 @@
 <div class="container-fluid">
 <div class="main-menu main-menu--single-page">
            <div class="main-menu-container-single-page">
-            <div class="main-menu__column col-md-6 mb-3">
+            <div class="main-menu__column col-md-10 mb-3">
                 <div class="main-menu-container">
                  <!-- list style principal (version 1). -->
                  <ul class="main-menu-list">
@@ -65,23 +65,6 @@
                         
                        
 
-                    </ul>
-
-                <!-- end list style principal (version 1). -->
-
-
-                </div>
-            </div>
-
-
-
-<!-- COLUMN -->
-<div class="main-menu__column col-md-6">
-    <div class="main-menu-container">
-
-
-  <!-- list style principal (version 1). -->
-  <ul class="main-menu-list">
                         
                         <li class="main-menu-list__item  mb-3">MOD ESPECIAL / 355ml
                             <span class="main-menu-list__item-price">$55.00</span>
@@ -130,23 +113,14 @@
 
 
 
-            <div class="main-menu__column col-md-6">
+            <div class="main-menu__column col-md-10">
                 <div class="main-menu-container">
                     <!-- list style principal (version 1). -->
                     <ul class="main-menu-list">   
                         <li class="main-menu-list__item  mb-3">STELLA / 355ml
                             <span class="main-menu-list__item-price">$75.00</span>
                         </li>
-                    </ul>                 
-                    <!-- end list style principal (version 1). -->
-                </div>
-            </div> 
-    <!-- END COLUMN -->
-
-    <div class="main-menu__column col-md-6">
-                <div class="main-menu-container">
-                    <!-- list style principal (version 1). -->
-                    <ul class="main-menu-list">   
+                 
                         <li class="main-menu-list__item  mb-3">ULTRA / 355m
                             <span class="main-menu-list__item-price">$75.00</span>
                         </li>
@@ -179,7 +153,7 @@
 
 
 
-            <div class="main-menu__column col-md-6">
+            <div class="main-menu__column col-md-10">
                 <div class="main-menu-container">
                      <!-- list style principal (version 1). -->
                  <ul class="main-menu-list">
@@ -192,27 +166,7 @@
                             <span class="main-menu-list__item-price">$95.00</span>
                         </li>
                         
-                       
-
-                    </ul>
-
-                <!-- end list style principal (version 1). -->
-
-             
-            </div>
-           </div> 
-<!-- END COLUMN -->
-
-
-
-
-
-<div class="main-menu__column col-md-6">
-                <div class="main-menu-container">
-                     <!-- list style principal (version 1). -->
-                 <ul class="main-menu-list">
-              
-                        
+                               
                         <li class="main-menu-list__item  mb-3">HERCULES EXTRASABROSA / 470ml
                             <span class="main-menu-list__item-price">$125.00</span>
                         </li>

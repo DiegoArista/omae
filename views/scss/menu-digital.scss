@@ -207,7 +207,7 @@ $black: #000;
   &__title-container {
     width: 100%;
     display: flex;
-    text-align: center;
+    text-align: left;
     flex-flow: column;
     // width: fit-content;
     align-items: center;
@@ -229,7 +229,7 @@ $black: #000;
     display: flex;
     align-items: center;
     width: fit-content;
-    text-align: center;
+    text-align: left;
     line-height: 35px;
 
     text-transform: uppercase;
@@ -893,6 +893,10 @@ $black: #000;
   }
   .main-menu-container {
     font-size: 1.2rem;
+    
+  }
+  .main-menu-container--static{
+    width: 630px;
   }
 
   .main-menu__subtitle {

@@ -46,34 +46,23 @@
 <div class="container-fluid">
 <div class="main-menu main-menu--single-page">
            <div class="main-menu-container-single-page">
-            <div class="main-menu__column col-md-6 mb-3">
+            <div class="main-menu__column col-md-12 mb-3">
                 
 
-                <div class="main-menu-container">
+                <div class="main-menu-container main-menu-container--static">
                    
 
                   <!-- list style principal (version 1). -->
-                     <ul class="main-menu-list w-75">
+                     <ul class="main-menu-list ">
                         <li class="main-menu-list__item mb-3">ESPAGUETI AL BURRO
                               <span class="main-menu-list__item-price">$90.00</span>
                         </li>
                         
-                        <li class="main-menu-list__item">ESPAGUETI ALFREDO
+                        <li class="main-menu-list__item  mb-3">ESPAGUETI ALFREDO
                             <span class="main-menu-list__item-price">$90.00</span>
                         </li>
                      
-                    </ul>   
-                      <!-- end list style principal (version 1). -->
-                </div>
-            </div> 
-
-
-
-<!-- COLUMN -->
-            <div class="main-menu__column col-md-6">
-                <div class="main-menu-container">
-                  <!-- list style principal (version 1). -->
-                     <ul class="main-menu-list w-75">
+                 
                      <li class="main-menu-list__item mb-3">FILETE DE ROBALO EMPANIZADO
                             <span class="main-menu-list__item-price">$110.00</span>
                         </li>
@@ -83,7 +72,7 @@
                         </li>
                           
                       
-                        <li class="main-menu-list__item">MINI TACOS DE
+                        <li class="main-menu-list__item  mb-3">MINI TACOS DE
 ARRACHERA 
                               <span class="main-menu-list__item-price">$110.00</span>
                         </li>

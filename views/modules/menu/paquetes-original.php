@@ -46,7 +46,7 @@
 <div class="container-fluid">
 <div class="main-menu main-menu--single-page">
            <div class="main-menu-container-single-page">
-            <div class="main-menu__column col-md-6 mb-3">
+            <div class="main-menu__column col-md-10 mb-3">
                 
 
                 <div class="main-menu-container">
@@ -88,23 +88,7 @@
                            <li class="main-menu-list__item main-menu-list__item--child">Botella importada  
                                <span class="main-menu-list__item-price main-menu-list__item-price--child">$2,400.00</span>
                             </li>
-                                          
-                       </ul>
-                       <!-- end ul list style child (version 2) -->
-                        </li>
-                    </ul>   
-                      <!-- end list style principal (version 1). -->
-                </div>
-            </div> 
-
-
-
-<!-- COLUMN -->
-            <div class="main-menu__column col-md-6">
-                <div class="main-menu-container">
-                 
-                     <!-- list style principal (lista doble) -->
-                     <ul class="main-menu-list">
+                  
 
                         <li class="main-menu-list__item main-menu-list__item--left">ARRACHERA 1KG
                             

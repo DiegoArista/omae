@@ -11,24 +11,26 @@
                     <a class="migajas__link" href="menu"><i class="fa fa-home"></i> Inicio</a> > Bebidas
                 </div>
             </div>
-        <div class="main-menu">
+        <div class="main-menu main-menu-subcat">
           
-        <h1 class="main-menu__title main-menu__title--line"> <span class="main-menu__title__circulo main-menu__title__circulo--l">•</span>   Menú de bebidas <span class="main-menu__title__circulo main-menu__title__circulo--r">•</span></h1>
+        <h1 class="main-menu__title main-menu__title--subcat">
+            Be <br>bi<br>das
+            </h1>
         
         
         
-            <nav class="nav-secondary-menu">
+            <nav class="nav-secondary-menu nav-secondary-menu--subcat">
                 <ul class="nav-secondary-menu__content">
-                    <li class="nav-secondary-menu__item"><a class="nav-secondary-menu__link" href="aperitivos">APERITIVOS, DESTILADOS Y DIGESTIVOS</a></li>
-                    <li class="nav-secondary-menu__item"><a class="nav-secondary-menu__link" href="cervezas">Cervezas</a></li>
-                    <li class="nav-secondary-menu__item"><a class="nav-secondary-menu__link" href="sinalcohol">BEBIDAS SIN ALCOHOL</a></li>
-                    <li class="nav-secondary-menu__item"><a class="nav-secondary-menu__link" href="cafe">BARRA DE CAFÉ, TES Y CARAJILLOS</a></li>
-                    <li class="nav-secondary-menu__item"><a class="nav-secondary-menu__link" href="mixologia">Mixología</a></li>
-                    <li class="nav-secondary-menu__item"><a class="nav-secondary-menu__link" href="promociones2">Promociones</a></li>
+                    <li class="nav-secondary-menu__item nav-secondary-menu__item--subcat"><a class="nav-secondary-menu__link" href="refrescos">Refrescos, Jugos y Café</a></li>
+                    <li class="nav-secondary-menu__item nav-secondary-menu__item--subcat"><a class="nav-secondary-menu__link" href="cervezas">Cervezas</a></li>
+                    <li class="nav-secondary-menu__item nav-secondary-menu__item--subcat"><a class="nav-secondary-menu__link" href="destilados">Destilados, Vinos y Licores</a></li>
+                    <li class="nav-secondary-menu__item nav-secondary-menu__item--subcat"><a class="nav-secondary-menu__link" href="martinis">Martinis & Margaritas</a></li>
+                    <li class="nav-secondary-menu__item nav-secondary-menu__item--subcat"><a class="nav-secondary-menu__link" href="cocteleria">Coctelería</a></li>
+                    <li class="nav-secondary-menu__item nav-secondary-menu__item--subcat"><a class="nav-secondary-menu__link" href="shots">Shots</a></li>
                 </ul>
             </nav>
 
-            <div class="mb-5">
+            <div class="d-flex justify-content-center mb-5">
                 <a class="btn btn-primary" href="menu">Volver</a>
             </div>
         </div>

@@ -55,7 +55,7 @@
 
             
 
-            <div class="main-menu__column col-md-6 mb-3">
+            <div class="main-menu__column col-md-12 mb-3">
                 
 
                 <div class="main-menu-container">
@@ -96,18 +96,7 @@ ACAMAYAS
                         <p class="main-menu-list__description">
                         (Con pollo a la plancha).
                         </p>    
-                    </ul>   
-                      <!-- end list style principal (version 1) -->
-                </div>
-            </div> 
-
-
-
-<!-- COLUMN -->
-            <div class="main-menu__column col-md-6">
-                <div class="main-menu-container">
-                  <!-- list style principal (version 1) -->
-                     <ul class="main-menu-list">
+                  
                         <li class="main-menu-list__item">ENSALADA CÉSAR CON
 ACAMAYAS 
                               <span class="main-menu-list__item-price">$290.00</span>

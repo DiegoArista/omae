@@ -46,14 +46,14 @@
 <div class="container-fluid">
 <div class="main-menu main-menu--single-page">
            <div class="main-menu-container-single-page">
-            <div class="main-menu__column col-md-6 mb-3">
+            <div class="main-menu__column col-md-12 mb-3 ">
                 
 
                 <div class="main-menu-container">
                    
 
                   <!-- list style principal (version 1). -->
-                     <ul class="main-menu-list">
+                     <ul class="main-menu-list ">
                         <li class="main-menu-list__item">PASTEL DE MOKA MEXICANO
                               <span class="main-menu-list__item-price">$130.00</span>
                         </li>
@@ -72,19 +72,7 @@
                         <p class="main-menu-list__description">
                         (Tradicional napolitano con elote dulce).
                         </p>  
-                           
-                    </ul>   
-                      <!-- end list style principal (version 1). -->
-                </div>
-            </div> 
-
-
-
-<!-- COLUMN -->
-            <div class="main-menu__column col-md-6">
-                <div class="main-menu-container">
-                  <!-- list style principal (version 1). -->
-                     <ul class="main-menu-list">
+                 
                      <li class="main-menu-list__item">CHESSE CAKE DE ATE DE MEMBRILLO
                             <span class="main-menu-list__item-price">$130.00</span>
                         </li>

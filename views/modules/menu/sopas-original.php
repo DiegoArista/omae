@@ -47,7 +47,7 @@
 <div class="main-menu main-menu--single-page">
            <div class="main-menu-container-single-page">
 
-            <div class="main-menu__column col-md-6 mb-3">
+            <div class="main-menu__column col-md-12 mb-3">
                 
 
                 <div class="main-menu-container">
@@ -65,19 +65,7 @@
                         <p class="main-menu-list__description">
                         (De acamaya y huachinango cocinada en mesa con piedra de rio.)
                         </p>  
-                          
-                    </ul>   
-                      <!-- end list style principal (version 1) -->
-                </div>
-            </div> 
-
-
-
-<!-- SOPAS -->
-            <div class="main-menu__column col-md-6">
-                <div class="main-menu-container">
-                  <!-- list style principal (version 1) -->
-                     <ul class="main-menu-list">
+                   
                         <li class="main-menu-list__item">SOPA DE FLOR DE CALABAZA
                               <span class="main-menu-list__item-price">$140.00</span>
                         </li>
