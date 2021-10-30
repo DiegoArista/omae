@@ -51,7 +51,7 @@ CHICO / 355ml
                         </li>
                         
                         
-                        <li class="main-menu-list__item  mb-3">AGUA NATURAL / 600ml
+                        <li class="main-menu-list__item  mb-3">AGUA NATURAL / 355ml
                             <span class="main-menu-list__item-price">$45.00</span>
                         </li>
                         
@@ -77,11 +77,11 @@ CHICO / 355ml
                             <span class="main-menu-list__item-price">$45.00</span>
                         </li>
                         <li class="main-menu-list__item  mb-3">MANZANA / 355ml
-                            <span class="main-menu-list__item-price">$65.00</span>
+                            <span class="main-menu-list__item-price">$45.00</span>
                         </li>
                         
                         <li class="main-menu-list__item  mb-3">SPRITE / 355ml
-                            <span class="main-menu-list__item-price">$65.00</span>
+                            <span class="main-menu-list__item-price">$45.00</span>
                         </li>
                         
                         

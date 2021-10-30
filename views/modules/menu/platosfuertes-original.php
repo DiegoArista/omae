@@ -54,21 +54,21 @@
                   <!-- list style principal (version 1) -->
                      <ul class="main-menu-list">
                         <li class="main-menu-list__item">ATOLILLO
-                              <span class="main-menu-list__item-price">$250.00</span>
+                              <span class="main-menu-list__item-price">$180.00</span>
                         </li>
                         <p class=" main-menu-list__description">
-                        (Un platillo de rescate de la zona oeste de Oaxaca preparado con chile costeño, hoja de aguacate y carne de conejo).
+                        (Un platillo de rescate de la zona oeste de Oaxaca preparado con chile costeño, hoja de aguacate y carne de pollo).
                         </p>  
-                        <li class="main-menu-list__item">PATO EN MOLE DE BETABEL
-                            <span class="main-menu-list__item-price">$480.00</span>
+                        <li class="main-menu-list__item">Pollo EN MOLE DE BETABEL
+                            <span class="main-menu-list__item-price">$300.00</span>
                         </li>
                         <p class="main-menu-list__description">
-                        (Pierna o muslo de pato en nuestro exquisito mole Queretano de betabel y guarnición de arroz y tamal de teja).
+                        (Pierna o muslo de pollo en nuestro exquisito mole Queretano de betabel, guarnición de arroz y tamal de teja).
                         </p>
                         
                         
                         <li class="main-menu-list__item">RÓBALO EN COSTRA DE PINOLE
-                            <span class="main-menu-list__item-price">$445.00</span>
+                            <span class="main-menu-list__item-price">$310.00</span>
                         </li>
                         <p class="main-menu-list__description">
                         (Filete frito con crujiente costra de pinole y guarnición de puré de papa rústico y tamal de teja; servido con bechamel de chipotle).
@@ -84,7 +84,7 @@
                         </p>  
                           
                         <li class="main-menu-list__item">RIB EYE EN COSTRA DE AJONJOLÍ
-                            <span class="main-menu-list__item-price">$590.00</span>
+                            <span class="main-menu-list__item-price">$350.00</span>
                         </li>
                         <p class="main-menu-list__description">
                         ( Asado al grill con guarnición de rajas y espinacas a la crema y
@@ -93,7 +93,7 @@ pure de papa rústico en una salsa picante con hormiga chicatana).
                           
                  
                         <li class="main-menu-list__item">COSTILLA DE CORDERO
-                              <span class="main-menu-list__item-price">$530.00</span>
+                              <span class="main-menu-list__item-price">$400.00</span>
                         </li>
                         <p class="main-menu-list__description">
                         ( Preparado al grill con adobo de teja y guarnición de puré de papa rústico).
@@ -117,7 +117,7 @@ pure de papa rústico en una salsa picante con hormiga chicatana).
 
 
                         <li class="main-menu-list__item">ALBÓNDIGAS
-                              <span class="main-menu-list__item-price">$250.00</span>
+                              <span class="main-menu-list__item-price">$220.00</span>
                         </li>
                         <p class="main-menu-list__description">
                         (Rellenas de huevo cocido con guarnición de arroz y tamal de teja en caldillo de jitomate con chipotle).
@@ -137,6 +137,12 @@ pure de papa rústico en una salsa picante con hormiga chicatana).
                         </li>
                         <p class="main-menu-list__description">
                         (A base de quinoa, avena y soya acompañada con verduras tempura).
+                        </p>  
+                        <li class="main-menu-list__item">HAMBURGUESA omae
+                              <span class="main-menu-list__item-price">$230.00</span>
+                        </li>
+                        <p class="main-menu-list__description">
+                        (Deliciosa hamburguesa finamente sazonada acompañada de tres quesos y papa saratoga).
                         </p>  
                         
 

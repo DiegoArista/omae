@@ -58,7 +58,7 @@ POMODORO PICANTE
                               <span class="main-menu-list__item-price">$220.00</span>
                         </li>
                         <p class=" main-menu-list__description">
-                        (Cocida al dente en salsa pomodoro con carne de conejo).
+                        (Cocida al dente en salsa pomodoro acompañada de pollo a las brasas).
                         </p>  
                         <li class="main-menu-list__item">ESPAGUETI EN SALSA DE FLOR DE CALABAZA
                             <span class="main-menu-list__item-price">$220.00</span>

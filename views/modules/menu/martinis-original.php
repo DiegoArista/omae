@@ -55,7 +55,7 @@
                               <span class="main-menu-list__item-price">$145.00</span>
                         </li>
                         <p class=" main-menu-list__description">
-                        (Vodka, jugo de arandano, jugo de limon, Cinzaano Rosso y Controy).
+                        (Vodka, jugo de arándano, jugo de limón, Cinzaano Rosso y Controy).
                         </p>  
                         <li class="main-menu-list__item">MARTINI SECO
                             <span class="main-menu-list__item-price">$150.00</span>

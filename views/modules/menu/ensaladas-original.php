@@ -66,7 +66,7 @@
                         </li>
                         <p class=" main-menu-list__description">
                         (kale, pimiento morrón, mango,
-arandano, con morada y semilla
+arándano, con morada y semilla
 de girasol con aderezo de
 aguacate).
                         </p>  
@@ -91,7 +91,7 @@ ACAMAYAS
                         (La receta original de familia).
                         </p> 
                         <li class="main-menu-list__item">ENSALADA CÉSAR CON POLLO
-                            <span class="main-menu-list__item-price">$220.00</span>
+                            <span class="main-menu-list__item-price">$170.00</span>
                         </li>
                         <p class="main-menu-list__description">
                         (Con pollo a la plancha).
@@ -112,9 +112,8 @@ ACAMAYAS
                         (Berros, betabel, cacahuate, naranja, lechuga, cebolla morada y ajonjolí con aderezo
 de miel y mostaza).
                         </p>  
-                        <li class="main-menu-list__item">ENSALADA OMAE CON
-POLLO
-                            <span class="main-menu-list__item-price">$220.00</span>
+                        <li class="main-menu-list__item">ENSALADA OMAE CON POLLO
+                            <span class="main-menu-list__item-price">$190.00</span>
                         </li>
                         <p class="main-menu-list__description">
                         (Con pollo a la plancha).

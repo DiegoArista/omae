@@ -59,11 +59,17 @@
                         <p class=" main-menu-list__description">
                         (Cocción de 12 horas preparado con oporto mexicano).
                         </p>  
+                        <li class="main-menu-list__item">CALDO DE Camarón
+                            <span class="main-menu-list__item-price">$145.00</span>
+                        </li>
+                        <p class="main-menu-list__description">
+                        (Sazonado con vino blnaco y espcecias de la casa.)
+                        </p> 
                         <li class="main-menu-list__item">CALDO DE PIEDRA
                             <span class="main-menu-list__item-price">$248.00</span>
                         </li>
                         <p class="main-menu-list__description">
-                        (De acamaya y huachinango cocinada en mesa con piedra de rio.)
+                        (De acamaya y huachinango cocinada en mesa con piedra de río.)
                         </p>  
                    
                         <li class="main-menu-list__item">SOPA DE FLOR DE CALABAZA

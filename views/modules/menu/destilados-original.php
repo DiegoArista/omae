@@ -82,7 +82,7 @@
                                 <th scope="row">ZACAPA</th>
                                 <td>750</td>
                                 <td>$295.00</td>
-                                <td>$2,650.00</td>
+                                <td>$2,300.00</td>
                             </tr>
                             <tr>
                                 <th scope="row">ZACAPA AMBAR</th>

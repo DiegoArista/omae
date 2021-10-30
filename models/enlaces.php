@@ -30,9 +30,9 @@ class EnlacesModels{
        
         else if( $enlaces == "alimentos"||
         $enlaces == "entradas" ||
-        $enlaces == "tacos" ||
+        $enlaces == "desvelados" ||
         $enlaces == "refrescos" ||
-        $enlaces == "del-mar-a-tu-mesa" ||
+
         $enlaces == "pastas" ||
         $enlaces == "sopas" ||
         $enlaces == "platosfuertes" ||
@@ -42,13 +42,8 @@ class EnlacesModels{
         $enlaces == "martinis" ||
         $enlaces == "cocteleria" ||
         $enlaces == "shots" ||
-      
-       
-       
         $enlaces == "ensaladas" ||
-      
         $enlaces == "cervezas" ||
-     
         $enlaces == "postres" ||
         $enlaces == "infantil" ||
         $enlaces == "bebidas" ){

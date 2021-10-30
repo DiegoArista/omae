@@ -64,14 +64,17 @@
                             <span class="main-menu-list__item-price">$450.00</span>
                         </li>
                         <p class="main-menu-list__description">
-                            (Preparados en mesa con ingredientes de su elección).
+                            (A la mantequilla).
                         </p>  
                         <li class="main-menu-list__item">AGUACHILE
-                            <span class="main-menu-list__item-price">$389.00</span>
+                            <span class="main-menu-list__item-price">$210.00</span>
                         </li>
                         <p class="main-menu-list__description">
-                        (De acamaya con la receta clásica de chile chiltepin, cenolla morada, cilantro, pepino y limón).
+                        (De camarón con la receta clásica de chile chiltepín y cebolla morada).
                         </p>  
+                        <li class="main-menu-list__item mb-3">TACO DE LANGOSTA
+                            <span class="main-menu-list__item-price">$290.00</span>
+                        </li>
                         <li class="main-menu-list__item">TACO DE JAIBA SUAVE
                             <span class="main-menu-list__item-price">$310.00</span>
                         </li>
@@ -80,7 +83,7 @@
                         </p>     
                    
                         <li class="main-menu-list__item">MEMELAS 
-                              <span class="main-menu-list__item-price">$230.00</span>
+                              <span class="main-menu-list__item-price">$210.00</span>
                         </li>
                         <p class=" main-menu-list__description">
                         (Fritas en manteca de cerdo con nopales en penca y a elegir acociles o chicatanas).
@@ -93,7 +96,7 @@
                         (Elaborado a la parrilla).
                         </p>  
                         <li class="main-menu-list__item">CAMARONES ROCA
-                            <span class="main-menu-list__item-price">$220.00</span>
+                            <span class="main-menu-list__item-price">$180.00</span>
                         </li>
                         <p class="main-menu-list__description">
                         (Rebozados y bañados en un delicioso aderezo de la casa).

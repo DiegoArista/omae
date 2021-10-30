@@ -89,6 +89,13 @@
                                <span class="main-menu-list__item-price main-menu-list__item-price--child">$2,400.00</span>
                             </li>
                   
+                            </ul>
+                       <!-- end ul list style child (version 2) -->
+                        </li>
+
+
+
+
 
                         <li class="main-menu-list__item main-menu-list__item--left">ARRACHERA 1KG
                             
@@ -116,14 +123,15 @@ verde).
                      <ul class="main-menu-list">
 
                         <li class="main-menu-list__item main-menu-list__item--left">CARNITAS 1KG
-                            
-                            <p class="main-menu-list__item main-menu-list__item-description">
-                            (Maciza y cuerito).
-                            </p>  
+                        <p class="main-menu-list__item main-menu-list__item-description  w-100">
+                                (Maciza y cuerito).
+                                </p> 
+                             
                     
                       <!--ul list style child (version 2) -->
                       
                         <ul class=" main-menu-list main-menu-list--child">
+                           
                            <li class="main-menu-list__item main-menu-list__item--child">Botella nacional 
                                <span class="main-menu-list__item-price main-menu-list__item-price--child">$1,800.00</span>
                            </li>
@@ -141,27 +149,6 @@ verde).
 
 
 
-
-
-                        <li class="main-menu-list__item main-menu-list__item--left">ACAMAYAS 1KG
-                            
-                            <p class="main-menu-list__item main-menu-list__item-description">
-                            (Asadas en grill acompañadas de nopales).
-                            </p>  
-                    
-                      <!--ul list style child (version 2) -->
-                      
-                        <ul class=" main-menu-list main-menu-list--child">
-                           <li class="main-menu-list__item main-menu-list__item--child">Botella nacional 
-                               <span class="main-menu-list__item-price main-menu-list__item-price--child">$2,200.00</span>
-                           </li>
-                           <li class="main-menu-list__item main-menu-list__item--child">Botella importada  
-                               <span class="main-menu-list__item-price main-menu-list__item-price--child">$3,000.00</span>
-                            </li>
-                                          
-                       </ul>
-                       <!-- end ul list style child (version 2) -->
-                        </li>
                     </ul>   
                       <!-- end list style principal (version 1). -->
 

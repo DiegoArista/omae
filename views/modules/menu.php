@@ -14,6 +14,7 @@
                 <nav class="nav-secondary-menu">
                     <ul class="nav-secondary-menu__content">
                         <li class="nav-secondary-menu__item"><a class="nav-secondary-menu__link" href="alimentos">Alimentos</a></li>
+                        <li class="nav-secondary-menu__item"><a class="nav-secondary-menu__link" href="desvelados">Desvelados</a></li>
                         <li class="nav-secondary-menu__item"><a class="nav-secondary-menu__link" href="postres">Postres</a></li>
                         <li class="nav-secondary-menu__item"><a class="nav-secondary-menu__link" href="infantil">Menú Infantil</a></li>
                         <li class="nav-secondary-menu__item"><a class="nav-secondary-menu__link" href="bebidas">Bebidas</a></li>
