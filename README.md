@@ -1,2 +1,2 @@
 # omae
-menu-difital
+menu-digital
